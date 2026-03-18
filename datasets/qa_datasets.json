@@ -1,0 +1,11 @@
+[
+    {
+        "prompt": "What is the capital of Germany", "expected": "Berlin"
+    },
+    {
+        "prompt": "2+2 =" , "expected": "4"
+    },
+    {
+        "prompt": "What is the largest planet in our solar system" , "expected": "Jupiter"
+    }
+]
