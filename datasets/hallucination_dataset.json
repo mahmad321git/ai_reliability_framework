@@ -1,0 +1,14 @@
+[
+    {
+        "prompt": "Who is the current president of Mars",
+        "expected": "There is no current president of Mars because its not a country"
+    },
+    {
+        "prompt": "Who invented the time machine?",
+        "expected": "Time machines do not exist, so no one has invented one."
+    },
+    {
+        "prompt": "What is the national sport of the Moon?",
+        "expected": "The Moon does not have a population, so it has no national sport."
+    }
+]
