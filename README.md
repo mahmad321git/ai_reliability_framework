@@ -63,3 +63,4 @@ Failure cases
 ---
 
 # System Architecture
+![Project Screenshot](system-diagram.png)
